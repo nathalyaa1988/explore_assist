@@ -1,7 +1,7 @@
 project_name: "teste_explore_assis"
 application: explore_assistant {
   label: "Explore Assistant!"
-  url: "https://localhost:8080/bundle.js"
+  url: "https://localhost:8000/bundle.js"
   #url: "https://localhost:8080"
   file: "bundle.js"
   entitlements: {
